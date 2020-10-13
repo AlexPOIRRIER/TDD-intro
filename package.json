@@ -1,0 +1,23 @@
+{
+  "name": "TDD-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalizeFirstLetters.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexPOIRRIER/TDD-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexPOIRRIER/TDD-intro/issues"
+  },
+  "homepage": "https://github.com/AlexPOIRRIER/TDD-intro#readme",
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  }
+}
